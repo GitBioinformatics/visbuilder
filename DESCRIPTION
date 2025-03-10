@@ -9,7 +9,7 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports:
-    scales
+    ggplot2
 Depends:
     R (>= 4.0.0),
     ggplot2 (>= 3.5.0)
