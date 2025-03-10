@@ -12,4 +12,4 @@ Imports:
     scales
 Depends:
     R (>= 4.0.0),
-    ggplot2 (>= 3.5.2)
+    ggplot2 (>= 3.5.0)
